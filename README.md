@@ -30,7 +30,7 @@ These included both **Wi-Fi** and **Ethernet** adapters.
 **Observation:**  
 For this capture session, the **active Wi-Fi interface** was selected to monitor live traffic.
 
-**Screenshot:** [View](./screenshots/) **network_interfaces.png**
+**Screenshot:** [View](./screenshots/) **network_interfaces.jpg**
 
 ---
 
@@ -45,7 +45,7 @@ For this capture session, the **active Wi-Fi interface** was selected to monitor
 - **Source**: 23.215.0.138  
 - **Destination**: 192.168.1.39  
 - **Details**: The client requested a webpage; server responded with 404 error.  
-- **Screenshot**: [View](./screenshots/)  **http.png**
+- **Screenshot**: [View](./screenshots/)  **http.jpg**
 
 ---
 
@@ -55,7 +55,7 @@ For this capture session, the **active Wi-Fi interface** was selected to monitor
 - **Source**: 192.168.1.39  
 - **Destination**: 8.8.8.8 (Google DNS)  
 - **Details**: Resolving domain name to IP address.  
-- **Screenshot**: [View](./screenshots/)  **dns.png**
+- **Screenshot**: [View](./screenshots/)  **dns.jpg**
 
 ---
 
@@ -65,7 +65,7 @@ For this capture session, the **active Wi-Fi interface** was selected to monitor
 - **Source**: 192.168.1.39  
 - **Destination**: 8.8.8.8  
 - **Details**: Used to test network connectivity.  
-- **Screenshot**: [View](./screenshots/)  **icmp.png**
+- **Screenshot**: [View](./screenshots/)  **icmp.jpg**
 
 ---
 
@@ -75,7 +75,7 @@ For this capture session, the **active Wi-Fi interface** was selected to monitor
 - **Source**: 192.168.1.39  
 - **Destination**: 23.215.0.138  
 - **Details**: Establishing a reliable connection between client and server.  
-- **Screenshot**: [View](./screenshots/)  **tcp.png**
+- **Screenshot**: [View](./screenshots/)  **tcp.jpg**
 
 ---
 
